@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    <!--
+    <wpt lat="47.62045473888919" lon="-122.35100269317627">
+         <name>Space Needle</name>
+	</wpt>
+    <wpt lat="47.593980196689984" lon="-122.3316478729248">
+        <name>Stadium</name>
+	</wpt>
+    <wpt lat="47.60526606636632" lon="-122.3023796081543">
+        <name>First Hill</name>
+	</wpt>
+     -->
+    <wpt lat="47.614784817189026" lon="-122.31641292572021">
+        <name>Capitol Hill</name>
+	</wpt>
+    <!--
+    <wpt lat="47.65634032981639" lon="-122.3056411743164">
+        <name>University District</name>
+	</wpt>
+    <wpt lat="47.66946234169431" lon="-122.3948621749878">
+        <name>Ballard</name>
+	</wpt>
+     -->
+</gpx>
