@@ -48,23 +48,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9A7400E416AA8FD0002B5606 /* Which Bus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Which Bus.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A7400E416AA8FD0002B5606 /* WhichBus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhichBus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A7400E816AA8FD0002B5606 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9A7400EA16AA8FD0002B5606 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9A7400EC16AA8FD0002B5606 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9A7400F016AA8FD0002B5606 /* Which Bus-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Which Bus-Info.plist"; sourceTree = "<group>"; };
+		9A7400F016AA8FD0002B5606 /* WhichBus-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WhichBus-Info.plist"; sourceTree = "<group>"; };
 		9A7400F216AA8FD0002B5606 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9A7400F416AA8FD0002B5606 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9A7400F616AA8FD0002B5606 /* Which Bus-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Which Bus-Prefix.pch"; sourceTree = "<group>"; };
+		9A7400F616AA8FD0002B5606 /* WhichBus-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WhichBus-Prefix.pch"; sourceTree = "<group>"; };
 		9A7400F716AA8FD0002B5606 /* WBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WBAppDelegate.h; sourceTree = "<group>"; };
 		9A7400F816AA8FD0002B5606 /* WBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WBAppDelegate.m; sourceTree = "<group>"; };
 		9A74010116AA8FD0002B5606 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		9A74010416AA8FD0002B5606 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		9A74010616AA8FD0002B5606 /* WBViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WBViewController.h; sourceTree = "<group>"; };
 		9A74010716AA8FD0002B5606 /* WBViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WBViewController.m; sourceTree = "<group>"; };
-		9A74010E16AA8FD0002B5606 /* Which BusTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Which BusTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A74010E16AA8FD0002B5606 /* WhichBusTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WhichBusTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A74010F16AA8FD0002B5606 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		9A74011716AA8FD0002B5606 /* Which BusTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Which BusTests-Info.plist"; sourceTree = "<group>"; };
+		9A74011716AA8FD0002B5606 /* WhichBusTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WhichBusTests-Info.plist"; sourceTree = "<group>"; };
 		9A74011916AA8FD0002B5606 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9A74011B16AA8FD0002B5606 /* Which_BusTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Which_BusTests.h; sourceTree = "<group>"; };
 		9A74011C16AA8FD0002B5606 /* Which_BusTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Which_BusTests.m; sourceTree = "<group>"; };
@@ -124,8 +124,8 @@
 		9A7400E516AA8FD0002B5606 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9A7400E416AA8FD0002B5606 /* Which Bus.app */,
-				9A74010E16AA8FD0002B5606 /* Which BusTests.octest */,
+				9A7400E416AA8FD0002B5606 /* WhichBus.app */,
+				9A74010E16AA8FD0002B5606 /* WhichBusTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -172,10 +172,10 @@
 				9A94FF6C16AB0FCB00BDD6BA /* icon_72x72.png */,
 				9A94FF6A16AB0F8700BDD6BA /* icon_54x54.png */,
 				9A94FF6816AB0F5C00BDD6BA /* icon_114x114.png */,
-				9A7400F016AA8FD0002B5606 /* Which Bus-Info.plist */,
+				9A7400F016AA8FD0002B5606 /* WhichBus-Info.plist */,
 				9A7400F116AA8FD0002B5606 /* InfoPlist.strings */,
 				9A7400F416AA8FD0002B5606 /* main.m */,
-				9A7400F616AA8FD0002B5606 /* Which Bus-Prefix.pch */,
+				9A7400F616AA8FD0002B5606 /* WhichBus-Prefix.pch */,
 				9A74012616AA97F6002B5606 /* Seattle-WhichBus.geojson */,
 				9A74012916AA9DD9002B5606 /* Seattle.gpx */,
 			);
@@ -195,7 +195,7 @@
 		9A74011616AA8FD0002B5606 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9A74011716AA8FD0002B5606 /* Which BusTests-Info.plist */,
+				9A74011716AA8FD0002B5606 /* WhichBusTests-Info.plist */,
 				9A74011816AA8FD0002B5606 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -204,9 +204,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9A7400E316AA8FD0002B5606 /* Which Bus */ = {
+		9A7400E316AA8FD0002B5606 /* WhichBus */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9A74012016AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "Which Bus" */;
+			buildConfigurationList = 9A74012016AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "WhichBus" */;
 			buildPhases = (
 				9A7400E016AA8FD0002B5606 /* Sources */,
 				9A7400E116AA8FD0002B5606 /* Frameworks */,
@@ -216,14 +216,14 @@
 			);
 			dependencies = (
 			);
-			name = "Which Bus";
+			name = WhichBus;
 			productName = "Which Bus";
-			productReference = 9A7400E416AA8FD0002B5606 /* Which Bus.app */;
+			productReference = 9A7400E416AA8FD0002B5606 /* WhichBus.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9A74010D16AA8FD0002B5606 /* Which BusTests */ = {
+		9A74010D16AA8FD0002B5606 /* WhichBusTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9A74012316AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "Which BusTests" */;
+			buildConfigurationList = 9A74012316AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "WhichBusTests" */;
 			buildPhases = (
 				9A74010916AA8FD0002B5606 /* Sources */,
 				9A74010A16AA8FD0002B5606 /* Frameworks */,
@@ -235,9 +235,9 @@
 			dependencies = (
 				9A74011416AA8FD0002B5606 /* PBXTargetDependency */,
 			);
-			name = "Which BusTests";
+			name = WhichBusTests;
 			productName = "Which BusTests";
-			productReference = 9A74010E16AA8FD0002B5606 /* Which BusTests.octest */;
+			productReference = 9A74010E16AA8FD0002B5606 /* WhichBusTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -250,7 +250,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Which Bus, LLC";
 			};
-			buildConfigurationList = 9A7400DE16AA8FD0002B5606 /* Build configuration list for PBXProject "Which Bus" */;
+			buildConfigurationList = 9A7400DE16AA8FD0002B5606 /* Build configuration list for PBXProject "WhichBus" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -262,8 +262,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9A7400E316AA8FD0002B5606 /* Which Bus */,
-				9A74010D16AA8FD0002B5606 /* Which BusTests */,
+				9A7400E316AA8FD0002B5606 /* WhichBus */,
+				9A74010D16AA8FD0002B5606 /* WhichBusTests */,
 			);
 		};
 /* End PBXProject section */
@@ -342,7 +342,7 @@
 /* Begin PBXTargetDependency section */
 		9A74011416AA8FD0002B5606 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9A7400E316AA8FD0002B5606 /* Which Bus */;
+			target = 9A7400E316AA8FD0002B5606 /* WhichBus */;
 			targetProxy = 9A74011316AA8FD0002B5606 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -439,9 +439,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Which Bus/Which Bus-Prefix.pch";
-				INFOPLIST_FILE = "Which Bus/Which Bus-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Which Bus/WhichBus-Prefix.pch";
+				INFOPLIST_FILE = "Which Bus/WhichBus-Info.plist";
+				PRODUCT_NAME = WhichBus;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -450,9 +450,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Which Bus/Which Bus-Prefix.pch";
-				INFOPLIST_FILE = "Which Bus/Which Bus-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Which Bus/WhichBus-Prefix.pch";
+				INFOPLIST_FILE = "Which Bus/WhichBus-Info.plist";
+				PRODUCT_NAME = WhichBus;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -467,8 +467,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Which Bus/Which Bus-Prefix.pch";
-				INFOPLIST_FILE = "Which BusTests/Which BusTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Which BusTests/WhichBusTests-Info.plist";
+				PRODUCT_NAME = WhichBusTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -484,8 +484,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Which Bus/Which Bus-Prefix.pch";
-				INFOPLIST_FILE = "Which BusTests/Which BusTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Which BusTests/WhichBusTests-Info.plist";
+				PRODUCT_NAME = WhichBusTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -494,7 +494,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9A7400DE16AA8FD0002B5606 /* Build configuration list for PBXProject "Which Bus" */ = {
+		9A7400DE16AA8FD0002B5606 /* Build configuration list for PBXProject "WhichBus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9A74011E16AA8FD0002B5606 /* Debug */,
@@ -503,7 +503,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9A74012016AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "Which Bus" */ = {
+		9A74012016AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "WhichBus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9A74012116AA8FD0002B5606 /* Debug */,
@@ -512,7 +512,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9A74012316AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "Which BusTests" */ = {
+		9A74012316AA8FD0002B5606 /* Build configuration list for PBXNativeTarget "WhichBusTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9A74012416AA8FD0002B5606 /* Debug */,
